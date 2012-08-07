@@ -9,3 +9,4 @@ See also:
 
 - http://hwraid.le-vert.net/wiki/LSIFusionMPTSAS2
 - http://exchange.nagios.org/directory/Plugins/Hardware/Storage-Systems/RAID-Controllers/check_sas2ircu/details
+- Monitoring hardware RAID: LSI SAS 2008 controller, OMSA - http://lists.us.dell.com/pipermail/linux-poweredge/2012-July/046801.html
